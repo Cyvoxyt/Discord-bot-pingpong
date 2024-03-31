@@ -9,3 +9,4 @@ if it's saying "the bot is ready" the bot is then functional
 If you have any problems with the bot please let me know on discord 
 My server discord : https://discord.gg/EYqT8AKvQm
 My Username : cyvox.
+this bot may not be useful but you can get the active developer badge with
