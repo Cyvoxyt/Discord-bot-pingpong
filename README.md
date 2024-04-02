@@ -10,3 +10,6 @@ If you have any problems with the bot please let me know on discord
 My server discord : https://discord.gg/EYqT8AKvQm
 My Username : cyvox.
 this bot may not be useful but you can get the active developer badge with
+
+
+The bot : https://discord.com/oauth2/authorize?client_id=1223344192244154500&permissions=8&scope=applications.commands+bot
